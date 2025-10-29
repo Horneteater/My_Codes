@@ -1,5 +1,6 @@
 
 #bogo math
+# a brute force approach that gives random answers untill correct one
 
 # x+1=4
 # solve for x
