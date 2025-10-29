@@ -1,7 +1,6 @@
 
 
-#model sunspot activity as markov chains for prediction
-
+#model sunspot activity as markov chain
 import pandas as pd
 import numpy as np
 
