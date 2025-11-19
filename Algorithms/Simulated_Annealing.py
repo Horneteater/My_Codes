@@ -35,7 +35,8 @@ T = 1000
 T_min = 0.007
 a = 0.9998
 def f(x) :
-	return abs(x)
+	y = (x**2) + (10 * math.sin(5*x)) + (7 * math.cos(4*x))
+	return y 
   
       
  
