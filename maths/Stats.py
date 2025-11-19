@@ -50,7 +50,7 @@ print(median([1,2,3]))
 #the value that is repeated the most in an array
 
 def mode(array):
-  array=[1,1,2,2,2,3]
+  
 
   count={}
 
