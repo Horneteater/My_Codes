@@ -50,8 +50,8 @@ zz=[z(i) for i in tt]
 
 
 plt.plot(xx,zz)
-plt.xlabel("X(decimeters))")
-plt.ylabel("Z(KM)")
+plt.xlabel("X")
+plt.ylabel("Z")
 plt.gca().set_aspect(10)
 plt.show()
 
