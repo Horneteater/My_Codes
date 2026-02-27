@@ -1,6 +1,6 @@
 
 """
-Black Scholes eq for European (discreet) options
+Black Scholes eq for European (discrete) options
 
 """
 
