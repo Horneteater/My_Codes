@@ -33,7 +33,7 @@ the number of numbers of Skewe's number is 10**(10**34) given that the universe 
 the number of numbers of numbers of Skewe's number is 10**34
 
 
-the number of numbers of numbers of numbers of Skewe's number is 34
+the number of numbers of numbers of numbers of Skewe's number is 34 + 1
 
 
 
